@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5fd24e86.css",
-    "main.js": "./static/js/main.37a34398.js",
+    "main.js": "./static/js/main.af572f92.js",
     "static/media/attmans.png": "./static/media/attmans.b079a9ae5bfd481afd8a.png",
     "static/media/intern.pdf": "./static/media/intern.90c2314f161197e75f28.pdf",
     "static/media/kanishka.jpeg": "./static/media/kanishka.577371a1b75602719143.jpeg",
@@ -18,16 +18,18 @@
     "static/media/html.png": "./static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "./static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "./static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/sql.jpg": "./static/media/sql.2b59af9c8d28f03bb915.jpg",
     "static/media/projecttracker.jpg": "./static/media/projecttracker.fa46fa01ef7361a44f4b.jpg",
     "static/media/bootstrap.png": "./static/media/bootstrap.fd3cb129782ecd201164.png",
+    "static/media/python.jpg": "./static/media/python.f2c150489b3e558c6f94.jpg",
     "static/media/daviet.jpg": "./static/media/daviet.80a826d968c95e1c9a5f.jpg",
     "static/media/javascript.png": "./static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "./index.html",
     "main.5fd24e86.css.map": "./static/css/main.5fd24e86.css.map",
-    "main.37a34398.js.map": "./static/js/main.37a34398.js.map"
+    "main.af572f92.js.map": "./static/js/main.af572f92.js.map"
   },
   "entrypoints": [
     "static/css/main.5fd24e86.css",
-    "static/js/main.37a34398.js"
+    "static/js/main.af572f92.js"
   ]
 }
